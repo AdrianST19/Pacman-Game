@@ -8,7 +8,7 @@ Aplicatia in momentul in care incepe jocul:
 
 ![image](https://user-images.githubusercontent.com/92085719/166146794-13dcb339-f976-4815-a71f-67a911ea39c2.png)
 
-Exemplu salvare in fisier text a scorului:
+Exemplu de salvare in fisier text a scorului:
 
 ![image](https://user-images.githubusercontent.com/92085719/166146829-02d2a864-2d29-43e5-aebb-de7c4006aee5.png)
 
